@@ -7,6 +7,7 @@ Download Direction:
 
 
 Operate Direction:
+
 J--light attack    
 K--heavy attack    
 U--Shoot    
