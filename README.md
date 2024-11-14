@@ -1,6 +1,10 @@
 Download Direction:
-Download all documents.
-Then click 'Cave of Learning.exe' to run it.
+
+1. Download all documents.
+
+2. Then click 'Cave of Learning.exe' to run it.
+
+
 
 Operate Direction:
 J--light attack    
